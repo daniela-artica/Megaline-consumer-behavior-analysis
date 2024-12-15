@@ -1,6 +1,7 @@
 # Megaline customer behavior analysis
 ## Project background
 Megaline is a telecommunications company that offers two prepaid plans to its users (Surf plan and Ultimate plan). The commercial department wanted to know which rates generate the most revenue in order to optimize the advertising budget. 
+
 The goal of this project is to analyze customer behavior and determine which prepaid plan generates the most revenue.  The dataset includes information on customer demographics, location, chosen plan, as well as the number of calls made and text messages sent.
 
 The analysis includes:
