@@ -14,3 +14,10 @@ The analysis includes:
 - **Development environment:** Jupyter Notebook
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scipy(for statistical analysis)
 
+## Key insights
+**Customer behavior analysis**
+-  Users’ call duration behavior does not significantly differ based on their plan choice. The distribution of monthly call durations per user is quite similar for both plans. The average call duration is 436 minutes for the Surf plan and 434 minutes for the Ultimate plan.
+- In terms of messaging behavior, users on the Ultimate plan send more messages than users on the Surf Plan.
+- In terms of internet consumption, users of both plans tend to consume a similar amount of gigabytes . However, Surf plan users tend to exceed their monthly internet allowance, with an average consumption of 16,717 MB meaning that they have to extra charges.
+
+**Revenue analysis**
