@@ -18,6 +18,8 @@ The analysis includes:
 **Customer behavior analysis**
 -  Users’ call duration behavior does not significantly differ based on their plan choice. The distribution of monthly call durations per user is quite similar for both plans. The average call duration is 436 minutes for the Surf plan and 434 minutes for the Ultimate plan.
 - In terms of messaging behavior, users on the Ultimate plan send more messages than users on the Surf Plan.
-- In terms of internet consumption, users of both plans tend to consume a similar amount of gigabytes . However, Surf plan users tend to exceed their monthly internet allowance, with an average consumption of 16,717 MB meaning that they have to extra charges.
+- In terms of internet consumption, users of both plans tend to consume a similar amount of gigabytes . However, Surf plan users tend to exceed their monthly internet limit, with an average consumption of 16,717 MB meaning that they have to pay extra charges.
 
 **Revenue analysis**
+- The analysis revealed statistically significant differences in revenue based on the users' plan. Surf plan users generate an average revenue of $60, with high variability and a greater number of outliers, suggesting that they frequently exceed the base plan cost. In contrast, Ultimate plan users have an average revenue of $72, with most values concentrated around this amount and fewer outliers, indicating that they rarely exceed their plan’s fixed rate.
+-Even though the Ultimate plan generates more revenue per user, the Surf plan has significantly more users, leading to a higher total revenue contribution. This suggests that the Surf plan may be more popular, but further analysis would be needed to assess profitability. 
