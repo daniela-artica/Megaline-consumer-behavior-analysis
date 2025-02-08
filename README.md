@@ -23,4 +23,4 @@ The analysis includes:
 **Revenue analysis**
 - The analysis revealed statistically significant differences in revenue based on the users' plan. Surf plan users generate an average revenue of $60, with high variability and a greater number of outliers, suggesting that they frequently exceed the base plan cost. In contrast, Ultimate plan users have an average revenue of $72, with most values concentrated around this amount and fewer outliers, indicating that they rarely exceed their plan’s fixed rate.
   
--Even though the Ultimate plan generates more revenue per user, the Surf plan has significantly more users, leading to a higher total revenue contribution. This suggests that the Surf plan may be more popular, but further analysis would be needed to assess profitability. 
+- Even though the Ultimate plan generates more revenue per user, the Surf plan has significantly more users, leading to a higher total revenue contribution. This suggests that the Surf plan may be more popular, but further analysis would be needed to assess profitability. 
